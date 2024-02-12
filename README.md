@@ -10,7 +10,7 @@
 
 ## 📗 Table of Contents
 
-- [📖 My new rails app ](#-my_new_rails_app-)
+- [📖 About the Project](#about-project)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
